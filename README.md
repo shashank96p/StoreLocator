@@ -17,5 +17,7 @@ To run this project:
 
     Run command npm start or node index.js on terminal to run this project.
     
+    Run Project on http://localhost:8000/
+    
 
 
